@@ -1,0 +1,13 @@
+.vscode/
+.idea/
+build/
+bin/
+obj/
+*.o
+*.obj
+*.exe
+*.out
+*.ilk
+*.pdb
+history.txt
+cmake-build-debug/
